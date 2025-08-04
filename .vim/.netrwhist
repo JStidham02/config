@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/jstidham/Desktop/Projects/Rust/Exercises/babys_first_struct/src'
+let g:netrw_dirhist_7='/home/jstidham/Desktop/Projects/PythonAccountant/src'
+let g:netrw_dirhist_6='/home/josh.stidham/Desktop/Code/sklk-dayz/fw/sklk/sklk-mu2'
+let g:netrw_dirhist_5='/home/josh.stidham/.vim'
+let g:netrw_dirhist_4='/home/josh.stidham/Desktop/Code/sklk-mu2'
+let g:netrw_dirhist_3='/home/josh.stidham/Desktop/Code/sklk-dayz/rtl/top/pwr_dayz'
+let g:netrw_dirhist_2='/home/josh.stidham/Desktop/Code/sklk-dayz/fw/sklk/sklk-mu2/fw/system/tools/mu2_mkpatch'
+let g:netrw_dirhist_1='/home/josh.stidham/Desktop/Code/sklk-mu2/fw/lib/embeddedsw'
